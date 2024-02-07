@@ -26,4 +26,15 @@ So, let's dive into the code section and explore the Python world. Happy coding!
 [Follow the link](#)  
 https://github.com/WasimInsights/DataVenture-Python.git
 
+# Sales insight project
+## Hello folks please checkout sales insight project with python.
+## Takeaways
+### Data extraction
+### Data cleaning
+### Data analysis
+### Data Visualization
+### Feel free to explore the projects and create your own insights
+[Follow the link](#)  
+
+
 
