@@ -68,7 +68,8 @@ Clothing & apparel, food, and electronics & gadgets are among the top-ordered pr
 
 These insights provide valuable information for marketing and product development strategies. Further analysis to understand the factors influencing purchasing behavior, refining targeting strategies, and exploring opportunities for diversification or expansion into underrepresented product categories or regions could lead to improvements. 📚🔍🚀
 ### You are welcome to explore the project and create your own insights🙏.
-## Check out the link (#)👇.  
+## Check out the link (#)👇. 
+https://github.com/WasimInsights/DataVenture-Python/blob/main/Sales%20Analysis.ipynb
 
 
 
